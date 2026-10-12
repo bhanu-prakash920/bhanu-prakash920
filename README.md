@@ -53,11 +53,11 @@ class BhanuPrakash:
 ### [Rosetta](https://github.com/bhanu-prakash920/rosetta)
 **Multi-OEM vehicle data platform.** Every car maker sends data in its own format; Rosetta turns all of it into one canonical event. When a new maker appears, an agent works out the mapping for it.
 
-- ⚡ **100,572 events/s** sustained, p99 ingest-to-dashboard **379 ms**
-- 🛡️ **0 of 10.1M events lost**, including when processes are SIGKILLed under load
-- 🤖 Agent field-mapper: **99.1%** correct vs **35.8%** for name matching
-- ✅ **2,768 tests**, 93.5% coverage, Pact contracts, BDD, 11 green CI jobs
-- 🐳 20-service stack: Kafka, TimescaleDB, pgvector, Redis, MQTT, Grafana, plus Helm and Terraform
+- **100,572 events/s** sustained, p99 ingest-to-dashboard **379 ms**
+- **0 of 10.1M events lost**, including when processes are SIGKILLed under load
+- Agent field-mapper: **99.1%** correct vs **35.8%** for name matching
+- **2,768 tests**, 93.5% coverage, Pact contracts, BDD, 11 green CI jobs
+- 20-service stack: Kafka, TimescaleDB, pgvector, Redis, MQTT, Grafana, plus Helm and Terraform
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
@@ -71,11 +71,11 @@ class BhanuPrakash:
 ### [DocSage](https://github.com/bhanu-prakash920/DocSage)
 **Multimodal agentic document intelligence.** Ask questions across PDFs, DOCX, slide decks and images. Every answer cites the exact page, table or figure it came from.
 
-- 🧠 LangGraph agent loop: **rewrite → retrieve → grade → answer**
-- 🔎 Hybrid **BM25 + dense** retrieval, **RRF fusion**, cross-encoder re-ranking
-- 🖼️ Tables and charts are cropped and captioned by a vision model, so they're searchable too
-- 📍 Unified schema with modality, page and **bbox** for per-source citations
-- 📊 Evaluated with **RAGAS**; provider-agnostic, works with Chroma or Qdrant
+- LangGraph agent loop: **rewrite → retrieve → grade → answer**
+- Hybrid **BM25 + dense** retrieval, **RRF fusion**, cross-encoder re-ranking
+- Tables and charts are cropped and captioned by a vision model, so they're searchable too
+- Unified schema with modality, page and **bbox** for per-source citations
+- Evaluated with **RAGAS**; provider-agnostic, works with Chroma or Qdrant
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -91,10 +91,10 @@ class BhanuPrakash:
 ### [Transit Demand Forecasting](https://github.com/bhanu-prakash920/transit_forecast) · *IEEE*
 **Spatio-temporal GNN plus XGBoost ensemble** that forecasts bus ridership per stop, per hour, then re-plans bus frequency to match.
 
-- 📉 **18.80% WMAPE · 5.89 MAE**, up to **36% better** than ARIMA, LSTM and GNN baselines
-- 🗺️ Graph attention over a weighted stop-adjacency graph to model how demand spreads between stops
-- 🚍 Load-aware planner: **97% fewer overcrowded hours**, **35% less waiting**
-- 🧮 ETL over **840K+** smart-card taps into **384K+** hourly features
+- **18.80% WMAPE · 5.89 MAE**, up to **36% better** than ARIMA, LSTM and GNN baselines
+- Graph attention over a weighted stop-adjacency graph to model how demand spreads between stops
+- Load-aware planner: **97% fewer overcrowded hours**, **35% less waiting**
+- ETL over **840K+** smart-card taps into **384K+** hourly features
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
@@ -107,12 +107,12 @@ class BhanuPrakash:
 ### [Star Schema for Chatbots](https://github.com/bhanu-prakash920/StarSchemaForChatbots)
 **How should data be modelled behind an analytics chatbot?** A benchmark of Star vs Snowflake vs Vector-RAG on 50,000 retail rows, scored against independently computed ground truth.
 
-- 🎯 Star & Snowflake: **20 / 20** exact answers. Vector RAG: **0 / 20**
-- 🏗️ Companion warehouse that measures how well the chatbot itself performs
+- Star & Snowflake: **20 / 20** exact answers. Vector RAG: **0 / 20**
+- Companion warehouse that measures how well the chatbot itself performs
 
 #### More I've built
-- 🧬 [**Chroma-Struct**](https://github.com/bhanu-prakash920/Chroma-Struct): hierarchy-preserving ingestion into ChromaDB for better RAG
-- 🕵️ [**Hallucination Detector**](https://github.com/bhanu-prakash920/hallucination_detector): scores LLM answers using entity, intent and triple-level checks
+- [**Chroma-Struct**](https://github.com/bhanu-prakash920/Chroma-Struct): hierarchy-preserving ingestion into ChromaDB for better RAG
+- [**Hallucination Detector**](https://github.com/bhanu-prakash920/hallucination_detector): scores LLM answers using entity, intent and triple-level checks
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
@@ -141,9 +141,9 @@ class BhanuPrakash:
 <!-- ═══════════════════════════ PUBLICATIONS ═══════════════════════════ -->
 ## Publications
 
-> **STGNN-Based Transit Demand Forecasting and Optimization**: co-author
-> 🎤 Accepted for **oral presentation** and **IEEE Xplore** publication at **ICETCI 2026**
-> ✈️ Accepted at **IEEE AITest 2026**, Fukuoka, Japan
+> **STGNN-Based Transit Demand Forecasting and Optimization**: co-author<br/>
+> Accepted for **oral presentation** and **IEEE Xplore** publication at **ICETCI 2026**<br/>
+> Accepted at **IEEE AITest 2026**, Fukuoka, Japan
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 ## Tech stack
