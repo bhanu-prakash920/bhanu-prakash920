@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-## 👨‍💻 About me
+## About me
 
 ```python
 class BhanuPrakash:
@@ -44,13 +44,13 @@ class BhanuPrakash:
 ```
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## 🚀 Featured projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 [Rosetta](https://github.com/bhanu-prakash920/rosetta)
+### [Rosetta](https://github.com/bhanu-prakash920/rosetta)
 **Multi-OEM vehicle data platform.** Every car maker sends data in its own format; Rosetta turns all of it into one canonical event. When a new maker appears, an agent works out the mapping for it.
 
 - ⚡ **100,572 events/s** sustained, p99 ingest-to-dashboard **379 ms**
@@ -68,7 +68,7 @@ class BhanuPrakash:
 </td>
 <td width="50%" valign="top">
 
-### 📄 [DocSage](https://github.com/bhanu-prakash920/DocSage)
+### [DocSage](https://github.com/bhanu-prakash920/DocSage)
 **Multimodal agentic document intelligence.** Ask questions across PDFs, DOCX, slide decks and images. Every answer cites the exact page, table or figure it came from.
 
 - 🧠 LangGraph agent loop: **rewrite → retrieve → grade → answer**
@@ -88,7 +88,7 @@ class BhanuPrakash:
 <tr>
 <td width="50%" valign="top">
 
-### 🚌 [Transit Demand Forecasting](https://github.com/bhanu-prakash920/transit_forecast) · 📜 *IEEE*
+### [Transit Demand Forecasting](https://github.com/bhanu-prakash920/transit_forecast) · *IEEE*
 **Spatio-temporal GNN plus XGBoost ensemble** that forecasts bus ridership per stop, per hour, then re-plans bus frequency to match.
 
 - 📉 **18.80% WMAPE · 5.89 MAE**, up to **36% better** than ARIMA, LSTM and GNN baselines
@@ -104,7 +104,7 @@ class BhanuPrakash:
 </td>
 <td width="50%" valign="top">
 
-### ⭐ [Star Schema for Chatbots](https://github.com/bhanu-prakash920/StarSchemaForChatbots)
+### [Star Schema for Chatbots](https://github.com/bhanu-prakash920/StarSchemaForChatbots)
 **How should data be modelled behind an analytics chatbot?** A benchmark of Star vs Snowflake vs Vector-RAG on 50,000 retail rows, scored against independently computed ground truth.
 
 - 🎯 Star & Snowflake: **20 / 20** exact answers. Vector RAG: **0 / 20**
@@ -123,7 +123,7 @@ class BhanuPrakash:
 </table>
 
 <!-- ═══════════════════════════ OPEN SOURCE ═══════════════════════════ -->
-## 🌍 Open source
+## Open source
 
 <img src="https://github.com/fossasia.png?size=60" width="22" align="top"/> **[FOSSASIA / Eventyay](https://github.com/fossasia/eventyay)**: an open-source event management, ticketing and talks platform (Django)
 
@@ -139,14 +139,14 @@ class BhanuPrakash:
 <img src="https://github.com/fossasia.png?size=60" width="22" align="top"/> **[FOSSASIA / scrum_helper](https://github.com/fossasia/scrum_helper)**: [#798](https://github.com/fossasia/scrum_helper/pull/798) i18n for the Chrome extension's Generate button
 
 <!-- ═══════════════════════════ PUBLICATIONS ═══════════════════════════ -->
-## 📜 Publications
+## Publications
 
 > **STGNN-Based Transit Demand Forecasting and Optimization**: co-author
 > 🎤 Accepted for **oral presentation** and **IEEE Xplore** publication at **ICETCI 2026**
 > ✈️ Accepted at **IEEE AITest 2026**, Fukuoka, Japan
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-## 🛠️ Tech stack
+## Tech stack
 
 <p align="center"><b>Languages & Backend</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,django,fastapi&perline=10" alt="Languages and backend"/>
@@ -166,7 +166,7 @@ class BhanuPrakash:
 </p>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## 📈 GitHub & LeetCode
+## GitHub & LeetCode
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=bhanu-prakash920&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
