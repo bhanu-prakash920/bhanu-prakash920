@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhanu%20Prakash%20Kusha&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Backend%20and%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20IEEE%20Author&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Bhanu Prakash Kusha"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhanu%20Prakash%20Kusha&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Backend%20and%20AI%20Engineer%20%E2%80%A2%20Open%20Source&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Bhanu Prakash Kusha"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/bhanu-prakash920">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=4FC3F7&center=true&vCenter=true&width=640&lines=I+build+backends+that+don't+lose+data.;Agentic+RAG+with+LangGraph+%2B+hybrid+retrieval.;100K+events%2Fs+streaming+pipelines.;Contributor+%40+FOSSASIA+%26+OWASP.;IEEE-published+in+spatio-temporal+GNNs." alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=4FC3F7&center=true&vCenter=true&width=640&lines=I+build+backends+that+don't+lose+data.;Agentic+RAG+with+LangGraph+%2B+hybrid+retrieval.;100K+events%2Fs+streaming+pipelines.;Contributor+%40+FOSSASIA+%26+OWASP." alt="Typing intro"/>
   </a>
 </p>
 
@@ -14,14 +14,14 @@
   <a href="mailto:kushabhanuprakash07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://bhanu-prakash920.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://leetcode.com/bunnykusha"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <img src="https://komarev.com/ghpvc/?username=bhanu-prakash920&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://hits.sh/github.com/bhanu-prakash920.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=2c5364" alt="Profile views"/>
 </p>
 
 <!-- ═══════════════════════════ AT A GLANCE ═══════════════════════════ -->
 <table align="center">
   <tr>
     <td align="center" width="170"><h2>9</h2><sub>merged PRs at<br/><b>FOSSASIA &amp; OWASP</b></sub></td>
-    <td align="center" width="170"><h2>2</h2><sub>IEEE conference<br/><b>paper acceptances</b></sub></td>
+    <td align="center" width="170"><h2>AIR 97</h2><sub>SRMJEEE 2023<br/><b>merit scholarship</b></sub></td>
     <td align="center" width="170"><h2>100K/s</h2><sub>events through<br/><b>Rosetta, zero lost</b></sub></td>
     <td align="center" width="170"><h2>9.2</h2><sub>CGPA, B.Tech CSE<br/><b>SRM IST '27</b></sub></td>
   </tr>
@@ -88,7 +88,7 @@ class BhanuPrakash:
 <tr>
 <td width="50%" valign="top">
 
-### [Transit Demand Forecasting](https://github.com/bhanu-prakash920/transit_forecast) · *IEEE*
+### [Transit Demand Forecasting](https://github.com/bhanu-prakash920/transit_forecast)
 **Spatio-temporal GNN plus XGBoost ensemble** that forecasts bus ridership per stop, per hour, then re-plans bus frequency to match.
 
 - **18.80% WMAPE · 5.89 MAE**, up to **36% better** than ARIMA, LSTM and GNN baselines
@@ -137,13 +137,6 @@ class BhanuPrakash:
 
 <img src="https://github.com/OWASP.png?size=60" width="22" align="top"/> **[OWASP / Nest](https://github.com/OWASP/Nest)**: [#5208](https://github.com/OWASP/Nest/pull/5208) added `/.well-known/security.txt` per **RFC 9116**<br/>
 <img src="https://github.com/fossasia.png?size=60" width="22" align="top"/> **[FOSSASIA / scrum_helper](https://github.com/fossasia/scrum_helper)**: [#798](https://github.com/fossasia/scrum_helper/pull/798) i18n for the Chrome extension's Generate button
-
-<!-- ═══════════════════════════ PUBLICATIONS ═══════════════════════════ -->
-## Publications
-
-> **STGNN-Based Transit Demand Forecasting and Optimization**: co-author<br/>
-> Accepted for **oral presentation** and **IEEE Xplore** publication at **ICETCI 2026**<br/>
-> Accepted at **IEEE AITest 2026**, Fukuoka, Japan
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 ## Tech stack
