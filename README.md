@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhanu%20Prakash%20Kusha&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20IEEE%20Author&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Bhanu Prakash Kusha"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhanu%20Prakash%20Kusha&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Backend%20and%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20IEEE%20Author&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Bhanu Prakash Kusha"/>
 </p>
 
 <p align="center">
